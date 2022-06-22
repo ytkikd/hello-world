@@ -1,4 +1,2 @@
 text11
 text12
-text23
-text24
