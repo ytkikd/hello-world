@@ -1,5 +1,3 @@
 text41
 text42
-text43
-TEXT43
-text45
+t
