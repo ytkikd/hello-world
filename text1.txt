@@ -1,5 +1,4 @@
 text11
-TEXT12
 
 text14
 text15
